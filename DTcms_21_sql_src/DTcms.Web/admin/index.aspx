@@ -35,7 +35,7 @@
             $(this).removeClass("l-link-over");
         });
 
-//        //设置频道菜单
+//        //设置频道菜单 -test github
 //        $("#global_channel_tree").ligerTree({
 //            url: '../tools/admin_ajax.ashx?action=sys_channel_load',
 //            checkbox: false,
